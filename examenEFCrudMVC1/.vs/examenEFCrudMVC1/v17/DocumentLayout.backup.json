@@ -32,10 +32,9 @@
               "RelativeDocumentMoniker": "examenEFCrudMVC1\\Views\\Empleado\\Editar.cshtml",
               "ToolTip": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenEFCrudMVC1\\examenEFCrudMVC1\\examenEFCrudMVC1\\Views\\Empleado\\Editar.cshtml",
               "RelativeToolTip": "examenEFCrudMVC1\\Views\\Empleado\\Editar.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-03T18:27:25.643Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T14:49:46.27Z"
             },
             {
               "$type": "Document",
@@ -45,9 +44,9 @@
               "RelativeDocumentMoniker": "examenEFCrudMVC1\\Views\\Empleado\\Index.cshtml",
               "ToolTip": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenEFCrudMVC1\\examenEFCrudMVC1\\examenEFCrudMVC1\\Views\\Empleado\\Index.cshtml",
               "RelativeToolTip": "examenEFCrudMVC1\\Views\\Empleado\\Index.cshtml",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAAAFkAAABsAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAE8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-03T17:47:06.724Z",
+              "WhenOpened": "2026-03-09T14:36:44.766Z",
               "EditorCaption": ""
             },
             {
@@ -58,9 +57,9 @@
               "RelativeDocumentMoniker": "examenEFCrudMVC1\\Controllers\\EmpleadoController.cs",
               "ToolTip": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenEFCrudMVC1\\examenEFCrudMVC1\\examenEFCrudMVC1\\Controllers\\EmpleadoController.cs",
               "RelativeToolTip": "examenEFCrudMVC1\\Controllers\\EmpleadoController.cs",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAcwA8AAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAIwC8AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T16:36:11.235Z",
+              "WhenOpened": "2026-03-09T02:15:59.76Z",
               "EditorCaption": ""
             }
           ]

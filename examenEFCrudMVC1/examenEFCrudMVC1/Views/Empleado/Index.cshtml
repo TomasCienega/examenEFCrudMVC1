@@ -106,6 +106,7 @@
                                     <a asp-action="Editar" asp-route-idEmp="@emp.IdEmpleado" class="btn btn-outline-secondary"><i class="bi bi-pencil"></i> Editar</a>
                                     <form asp-action="Eliminar" method="post" onsubmit="return confirm('¿Seguro que deseas eliminar a @emp.NombreEmpleado?');">
                                         <input type="hidden" name="idEmp" value="@emp.IdEmpleado"/>
+                                        <input type="hidden" name="idDep" value="@ViewBag.IdSeleccionado" />
                                         <button type="submit" class="btn btn-outline-danger"> <i class="bi bi-trash"></i> Eliminar</button>
                                     </form>
                                 </div>

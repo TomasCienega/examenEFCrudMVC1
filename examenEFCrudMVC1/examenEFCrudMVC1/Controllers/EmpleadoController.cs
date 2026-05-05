@@ -103,27 +103,26 @@ namespace examenEFCrudMVC1.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Eliminar(int idEmp)
+        public async Task<IActionResult> Eliminar(int idEmp, int idDep)
         {
             try
             {
                 var empleado = await _context.Empleados.FindAsync(idEmp);
                 if (empleado == null)
                 {
-                    return RedirectToAction("Index");
+                    Console.WriteLine("No se puede eliminar!");
                 }
                 else
                 {
                     _context.Empleados.Remove(empleado);
                     await _context.SaveChangesAsync();
-                    return RedirectToAction("Index");
                 }
 
             }catch (Exception ex)
             {
                 Console.WriteLine(ex.Message);
-                return RedirectToAction("Index");
             }
+            return RedirectToAction("Index", new { idDep = idDep });
         }
 
         [HttpPost]

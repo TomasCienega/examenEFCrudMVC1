@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("examenEFCrudMVC1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5927454abb30e37ba2840ca31277a346e0050200")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02aa3e0d833b246fc010f97bb8c7b8a4d29871fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("examenEFCrudMVC1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("examenEFCrudMVC1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
